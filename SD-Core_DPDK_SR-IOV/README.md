@@ -9,7 +9,9 @@
 	- Enable `SR-IOV` and `hugepages`
 	- Change `access` and `core` interface IPs according to core
 	- Change mode to `DPDK`
-#### To setup DPDK refer [here](https://raw.githubusercontent.com/evershalik/Documentation/main/SD-Core_DPDK_SR-IOV/SetupDPDK.sh?token=GHSAT0AAAAAACAD2BEQRGMW6NB2M4SJLB4CZAUDBRA)
+#### To setup DPDK, refer [here](https://raw.githubusercontent.com/evershalik/Documentation/main/SD-Core_DPDK_SR-IOV/SetupDPDK.sh?token=GHSAT0AAAAAACAD2BEQRGMW6NB2M4SJLB4CZAUDBRA)
+
+#### To setup SR-IOV, refer [here](https://raw.githubusercontent.com/evershalik/Documentation/main/SD-Core_DPDK_SR-IOV/SetupSR_IOV.sh?token=GHSAT0AAAAAACAD2BERSYPIQLOJMH7RZG5CZAUDLNA)
 
 > NOTE: Here is the list of all the changes that needs to be done on fresh SD-Core with DPDK and SR-IOV
 ```patch
